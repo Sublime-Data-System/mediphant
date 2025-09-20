@@ -2,6 +2,10 @@
 
 This repository contains the solution for the Mediphant Practical Dev Test. It includes a Next.js web application for checking medication interactions and a RAG-based FAQ API using Pinecone and LangChain.
 
+## 🎥 Demo
+
+[View Demo Video](demo/demo.mov)
+
 ---
 
 ## 🚀 Tooling & Versions
